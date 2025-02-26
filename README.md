@@ -23,7 +23,7 @@ This is a **Streamlit-based mental health assessment** tool that evaluates user 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mental-health-assessment.git
+   git clone https://github.com/MIHIR-RANJAN/mental-health-assessment.git
    cd mental-health-assessment
    ```
 
