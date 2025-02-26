@@ -97,8 +97,10 @@ This tool is for informational purposes **only** and does not replace profession
 ---
 
 ### 🔗 Contact
-Name: Mihir Ranjan & Shuvo Mistry
-📞 Phone: +91 9631997254 & +91 8218160597
-📧 Email: mihir29062001@gmail.com & shuvomistry.nfsu@gmail.com
+Name: Mihir Ranjan & Shuvo Mistry  
+📞 Phone: +91 9631997254 & +91 8218160597  
+📧 Email: [mihir29062001@gmail.com](mailto:mihir29062001@gmail.com) & [shuvomistry.nfsu@gmail.com](mailto:shuvomistry.nfsu@gmail.com)  
 🔗 GitHub: [MIHIR-RANJAN](https://github.com/MIHIR-RANJAN)  
 🔗 LinkedIn: [Mihir Ranjan](https://www.linkedin.com/in/mihir-ranjan-328503201/)
+
+
