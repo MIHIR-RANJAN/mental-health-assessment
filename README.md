@@ -98,5 +98,5 @@ This tool is for informational purposes **only** and does not replace profession
 
 ### 🔗 Contact
 📧 Email: mihir29062001@gmail.com  
-🔗 GitHub: [Your GitHub](https://github.com/MIHIR-RANJAN)  
-🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mihir-ranjan-328503201/)
+🔗 GitHub: [MIHIR-RANJAN](https://github.com/MIHIR-RANJAN)  
+🔗 LinkedIn: [Mihir Ranjan](https://www.linkedin.com/in/mihir-ranjan-328503201/)
