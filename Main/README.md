@@ -1,4 +1,4 @@
-# Mental Health Assessment Prototype
+# Mental Health Assessment App
 
 This is a **Streamlit-based mental health assessment** tool that evaluates user responses and provides insights using **BERT-based NLP models**. The application includes:
 
@@ -24,7 +24,7 @@ This is a **Streamlit-based mental health assessment** tool that evaluates user 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/mental-health-assessment.git
-   cd mental-health-assessment/Main
+   cd mental-health-assessment
    ```
 
 2. Install dependencies:
@@ -98,5 +98,5 @@ This tool is for informational purposes **only** and does not replace profession
 
 ### 🔗 Contact
 📧 Email: mihir29062001@gmail.com  
-🔗 GitHub: [Your GitHub](https://github.com/MIHIR-RANJAN)  
-🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mihir-ranjan-328503201/)
+🔗 GitHub: [MIHIR-RANJAN](https://github.com/MIHIR-RANJAN)  
+🔗 LinkedIn: [Mihir Ranjan](https://www.linkedin.com/in/mihir-ranjan-328503201/)
