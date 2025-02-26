@@ -1,4 +1,4 @@
-# Mental Health Assessment App
+# Mental Health Assessment 
 
 This is a **Streamlit-based mental health assessment** tool that evaluates user responses and provides insights using **BERT-based NLP models**. The application includes:
 
@@ -97,6 +97,8 @@ This tool is for informational purposes **only** and does not replace profession
 ---
 
 ### 🔗 Contact
-📧 Email: mihir29062001@gmail.com  
+Name: Mihir Ranjan & Shuvo Mistry
+📞 Phone: +91 9631997254 & +91 8218160597
+📧 Email: mihir29062001@gmail.com & shuvomistry.nfsu@gmail.com
 🔗 GitHub: [MIHIR-RANJAN](https://github.com/MIHIR-RANJAN)  
 🔗 LinkedIn: [Mihir Ranjan](https://www.linkedin.com/in/mihir-ranjan-328503201/)
