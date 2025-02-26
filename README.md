@@ -24,7 +24,7 @@ This is a **Streamlit-based mental health assessment** tool that evaluates user 
 1. Clone the repository:
    ```bash
    git clone https://github.com/MIHIR-RANJAN/mental-health-assessment.git
-   cd mental-health-assessment
+   cd mental-health-assessment/Main
    ```
 
 2. Install dependencies:
