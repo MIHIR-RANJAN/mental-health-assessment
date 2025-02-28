@@ -90,46 +90,45 @@ Ensure you have the following installed:
 
 ---
 
-
 ## 📸 Step-by-Step App Walkthrough
 
-Below are snapshots demonstrating the working of the Mental Health Assessment tool:
+Below are snapshots demonstrating how the Mental Health Assessment tool works:
 
 ### 1️⃣ Home Screen  
-The landing page introduces users to the tool and its purpose.  
+The landing page introduces users to the app and outlines the assessment process.  
 ![Step 1 - Home Screen](images/1.png)
 
-### 2️⃣ User Information Entry  
-Users provide basic details before starting the assessment.  
-![Step 2 - User Information](images/2.png)
+### 2️⃣ Section - 1 (Mood and Energy)  
+Users provide basic answers to these questions to define their daily energy levels.  
+![Step 2 - Mood and Energy](images/2.png)
 
-### 3️⃣ Questionnaire Begins  
-A structured questionnaire gathers user responses for evaluation.  
-![Step 3 - Questionnaire](images/3.png)
+### 3️⃣ Section - 2 (Anxiety and Stress)  
+A structured questionnaire designed to gain insights into anxiety and stress levels.  
+![Step 3 - Anxiety and Stress](images/3.png)
 
-### 4️⃣ Answering Questions  
-Users respond to mental health-related questions dynamically.  
-![Step 4 - Answering Questions](images/4.png)
+### 4️⃣ Section - 3 (Behavioral Patterns)  
+This section analyzes the user's behavior patterns.  
+![Step 4 - Behavioral Patterns](images/4.png)
 
-### 5️⃣ AI Analysis in Progress  
-The BERT-based NLP model processes the responses.  
-![Step 5 - AI Processing](images/5.png)
+### 5️⃣ Section - 4 (Thought Patterns)  
+This section gathers insights into the user's thoughts and cognitive patterns.  
+![Step 5 - Thought Patterns](images/5.png)
 
-### 6️⃣ Primary Assessment Result  
-A high-level analysis of the user's mental health status.  
-![Step 6 - Primary Result](images/6.png)
+### 6️⃣ Section - 5 (Social and Functional Impact)  
+This section evaluates how social and environmental factors impact the user.  
+![Step 6 - Social and Functional Impact](images/6.png)
 
 ### 7️⃣ Detailed Condition Breakdown  
-The system provides further classification of possible conditions.  
-![Step 7 - Detailed Analysis](images/7.png)
+The BERT-based NLP model processes the responses and provides a high-level analysis of the user's mental health status. The system further classifies possible conditions.  
+![Step 7 - Detailed Condition Breakdown](images/7.png)
 
 ### 8️⃣ Recommendations & Resources  
-Based on results, personalized self-care resources are displayed.  
-![Step 8 - Recommendations](images/8.png)
+Based on the results, personalized self-care resources and guidance are displayed.  
+![Step 8 - Recommendations & Resources](images/8.png)
 
 ### 9️⃣ Chatbot Explanation  
-An AI chatbot offers insights and explanations about the results.  
-![Step 9 - Chatbot Insights](images/9.png)
+An AI-powered chatbot offers insights and explanations about the results.  
+![Step 9 - Chatbot Explanation](images/9.png)
 
 ---
 
