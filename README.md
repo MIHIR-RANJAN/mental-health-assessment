@@ -48,6 +48,7 @@ This is a **Streamlit-based mental health assessment** tool that evaluates user 
 mental-health-assessment
 │
 ├── dataset/        # Contains all datasets
+├── images/        # Contains all images (app visualization)
 ├── Main/           # Contains core project files
 │   ├── app.py      # Streamlit application
 │   ├── main.ipynb  #Main file training code
@@ -55,6 +56,8 @@ mental-health-assessment
 │   ├── mental_health_bert.pkl    #.pkl file
 │   ├── requirements.txt  # Dependencies list
 │   ├── requirementsForTraining.txt  # Dependencies list during training
+│   ├── README.md   
+├── README.md
 ```
 
 ---
