@@ -90,6 +90,50 @@ Ensure you have the following installed:
 
 ---
 
+## 📸 Step-by-Step App Walkthrough
+
+Below are snapshots demonstrating how the Mental Health Assessment tool works:
+
+### 1️⃣ Home Screen  
+The landing page introduces users to the app and outlines the assessment process.  
+![Step 1 - Home Screen](images/1.png)
+
+### 2️⃣ Section - 1 (Mood and Energy)  
+Users provide basic answers to these questions to define their daily energy levels.  
+![Step 2 - Mood and Energy](images/2.png)
+
+### 3️⃣ Section - 2 (Anxiety and Stress)  
+A structured questionnaire designed to gain insights into anxiety and stress levels.  
+![Step 3 - Anxiety and Stress](images/3.png)
+
+### 4️⃣ Section - 3 (Behavioral Patterns)  
+This section analyzes the user's behavior patterns.  
+![Step 4 - Behavioral Patterns](images/4.png)
+
+### 5️⃣ Section - 4 (Thought Patterns)  
+This section gathers insights into the user's thoughts and cognitive patterns.  
+![Step 5 - Thought Patterns](images/5.png)
+
+### 6️⃣ Section - 5 (Social and Functional Impact)  
+This section evaluates how social and environmental factors impact the user.  
+![Step 6 - Social and Functional Impact](images/6.png)
+
+### 7️⃣ Detailed Condition Breakdown  
+The BERT-based NLP model processes the responses and provides a high-level analysis of the user's mental health status. The system further classifies possible conditions.  
+![Step 7 - Detailed Condition Breakdown](images/7.png)
+
+### 8️⃣ Recommendations & Resources  
+Based on the results, personalized self-care resources and guidance are displayed.  
+![Step 8 - Recommendations & Resources](images/8.png)
+
+### 9️⃣ Chatbot Explanation  
+An AI-powered chatbot offers insights and explanations about the results.  
+![Step 9 - Chatbot Explanation](images/9.png)
+
+---
+
+
+
 ## 📌 Disclaimer
 
 This tool is for informational purposes **only** and does not replace professional medical advice. If you or someone you know is struggling, please consult a qualified mental health professional.
