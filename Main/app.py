@@ -346,8 +346,11 @@ def main():
             if scores["Suicidal"] >= thresholds["Suicidal"]:
                 final_result = "Suicidal"
         
-        # Display results
-        st.markdown(f"## Primary Assessment: {final_result}")
+        # # Display results
+        # st.markdown(f"## Primary Assessment: {final_result}")
+        color = "green" if final_result == "Normal" else "red"
+        st.markdown(f"## Primary Assessment: <span style='color:{color};'>{final_result}</span>", unsafe_allow_html=True)
+
         
         # Generate explanation using chatbot
         explanation_prompt = f"Based on a mental health screening, someone showed signs of {final_result}. Provide a brief, supportive explanation of what this might mean and gentle advice on next steps. Be compassionate but not alarming."
